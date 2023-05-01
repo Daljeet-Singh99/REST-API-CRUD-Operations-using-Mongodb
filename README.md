@@ -2,8 +2,9 @@
 1. Navigate to the project directory
 
 2. Start the MongoDB server on your machine.
-3. Activate the virtual environment using command .sdeintern/Scripts/activate 
-4. Run the Flask application
+3. Activate the virtual environment using command .sdeintern/Scripts/activate
+4. use pip install -r Requirements.txt to install requirements
+5. Run the Flask application
 
 
 
